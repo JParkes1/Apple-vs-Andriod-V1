@@ -1,0 +1,49 @@
+body {
+    width: 600px;
+    margin: auto;
+    padding: 100px 100px;
+    background-color: white;
+}
+
+html {
+    background-color: #cabfb6;
+    padding-bottom: 10px
+}
+
+.or, p, button, li {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+.Apple-btn {
+    color: black;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #b6bcca;
+    padding: 5px 30px;
+}
+
+.Andriod-btn {
+    color: black;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #a4c93b;
+    padding: 5px 30px;
+}
+
+.Explore-btn {
+    background-color: #c9793b;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+a:hover {
+    border: 3px solid black
+}
+
+img {
+    width: 600px
+}
